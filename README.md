@@ -1,3 +1,7 @@
+# The Go Programming Language - Alan A. A. Donovan, Brian W. Kernighan
+### @lanej - Solutions and Notes
+
+
 # The Go Programming Language
 
 This repository provides the downloadable example programs

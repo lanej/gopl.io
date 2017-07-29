@@ -1,0 +1,5 @@
+ » go test -v -test.bench=. | egrep '(Benchmark)|(ns/op)'
+BenchmarkManualJoin-8    	-test.v=true -test.bench=.
+ 2000000	       893 ns/op
+BenchmarkLibraryJoin-8   	/var/folders/4n/32bb59n91nx__l8r0d3kmk2r0000gp/T/go-build468179260/github.com/lanej/kd-go/1.3/_test/1.3.test -test.v=true -test.bench=.
+  500000	      3676 ns/op
